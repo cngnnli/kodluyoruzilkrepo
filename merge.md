@@ -26,3 +26,9 @@ Proje 2
 ```
 O(nlogn)
 ```
+
+## **License**
+
+```
+https://app.patika.dev/cngnnli
+```

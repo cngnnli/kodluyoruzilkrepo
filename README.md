@@ -30,3 +30,9 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ![Proje Resmi](https://drom.org.mk/wp-content/uploads/2021/02/project-planning-header@2x.png)
+
+## **License**
+
+```
+https://app.patika.dev/cngnnli
+```

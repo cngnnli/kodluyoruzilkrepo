@@ -18,3 +18,9 @@ Proje 3
         2   4
 
 ```
+
+## **License**
+
+```
+https://app.patika.dev/cngnnli
+```
